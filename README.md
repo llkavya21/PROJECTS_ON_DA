@@ -1,2 +1,2 @@
-# time_series
-time series project on time series
+#PROJECTS ON DATA ANALYTICS
+
